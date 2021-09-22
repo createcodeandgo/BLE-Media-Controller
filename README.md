@@ -14,4 +14,4 @@ The Flora Board talks to the BLE module over UART. The 4 buttons for play, next,
 
 The project on my PC:
 
-![Photo shows the Adafruit Flora board and the Flora BLE taped to my PC. Also the control pads, which are crocodile clips with paper icons. There are playpause, media next, volume down and volume up](/photos/onPC.jpg "Microcontroller on PC")
+![Photo shows the Adafruit Flora board and the Flora BLE taped to my PC. Also the control pads, which are crocodile clips with paper icons. There are playpause, media next, volume down and volume up](/photos/onPC.jpg "Project on PC")
